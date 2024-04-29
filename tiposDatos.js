@@ -29,3 +29,5 @@ Actualmente tengo ${age} años de edad.
 Mi lugar de residencia es ${address.street}, ${address.city}.
 Algunas cosas que me encantan hacer en mi día a día son:
 ${Hobbies[0]}, ${Hobbies[1]} y ${Hobbies[2]}`
+
+console.log(bio);
